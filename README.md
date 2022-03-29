@@ -1,4 +1,4 @@
-#NEWEGG 3080GPU SCRAPPER
+##NEWEGG 3080GPU SCRAPPER
 
 This is a program that has scraped data from when searching
 for 3080 graphics card in stock which then allows the user to
